@@ -13,4 +13,4 @@ D-type flip-flops are used to store the input bits.
 
 ## How to test
 
-The 8 inputs are saved to the 8 outputs on a clock pulse. Use the push button to save and hold.
+The 8 inputs are saved to the 8 outputs. Use the push button to save and hold.
